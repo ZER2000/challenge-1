@@ -9,7 +9,7 @@ a=((nombre%100)%10);
 b=((nombre%100)/10);
 c=nombre/100;
 
-printf("l'inverse de nombre est: \n %d%d%d%",a,b,c);
+printf("l'inverse de nombre est: \n%d%d%d%",a,b,c);
 	
 	
 	
