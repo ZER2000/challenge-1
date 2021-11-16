@@ -16,11 +16,15 @@ void main()
     if(h1==h2 && m1==m2 && s1==s2) c=3;
     switch(c)
     {
+    	
+    	   case 1: printf("Le premier instant vient avant le deuxieme.\n");
+            break;
+         case 2: printf("Le deuxieme instant vient avant le premier.\n");     
+            break;
       case 3: printf("Il s'agit du meme instant.\n");
-            break;
-     case 1: printf("Le premier instant vient avant le deuxieme.\n");
-            break;
-    case 2: printf("Le deuxieme instant vient avant le premier.\n");
+        
+  
+  
     }
-   
 }
+
