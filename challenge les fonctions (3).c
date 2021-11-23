@@ -10,7 +10,7 @@ return false;
 }	
 return true;	
 }
-void main(){
+void main(){u
 printf("entrer votre nombre  : \n ");
 scanf("%d",&n);	 
 if (premier()==0){

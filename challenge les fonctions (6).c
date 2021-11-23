@@ -10,7 +10,7 @@ void main(){
 	for (i=0;i<n;i++)
 	{	
 	printf(" avant le tri  : \n");
-	
+
 	printf(" element du %d :",i+1);
 
 	print(" \n");		
